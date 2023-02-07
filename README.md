@@ -14,4 +14,3 @@ script y recursos usados para el canal de youtube cultura devops
 # Mi canal de cultura Devops
 
 [![canal de youtube sobre devops ](https://github.com/culturadevops/ecs_para_principiantes/blob/master/recursos/culturadevops.png)](https://www.youtube.com/channel/UCfJ67eVA7DkKbbIF5ceJDMA?sub_confirmation=1) 
-liitle change test
